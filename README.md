@@ -1,115 +1,121 @@
 👋 Hi there! I'm Taehoon Kang (강태훈)
 
-An Embedded Software Developer with a passion for low-level systems, real-time control, and AI-integrated edge devices.
+An Embedded Software Developer passionate about real-time systems, low-level driver development, and hardware-accelerated AI.
 
 🧑‍💻 About Me
 
-🎂 1999.10.26
+🎂 Birth: 1999.10.26
 
-📫 Email: jjwkth1@gmail.com📝 Blog: jjwkth2님의 네이버 블로그
+📧 Email: jjwkth1@gmail.com
 
-📚 Education:
+📗 Blog: jjwkth2님의 네이버 블로그
 
-의왕고등학교 졸업 (2019.01)
+🎓 Education
 
-대한상공회의소 AI시스템반도체 SW개발자 교육 수료 (2025.09)
+🏫 의왕고등학교 졸업 (2019.01)
 
-가천대학교 부처협업 프로젝트 참여 (2023.09~2023.12)
+📘 AI 시스템반도체 SW 개발자 과정 이수 - 대한상공회의소 서울기술교육센터 (2025.02 ~ 2025.09)
 
-경기도 경제과학진흥원 빅데이터 분석 과정 수료 (2022.06)
+🧠 부처협업 P-프로젝트 참여 - 가천대학교 (2023.09 ~ 2023.12)
 
-📄 License & Certification:
+📊 빅데이터 분석 교육 수료 - 경기도 경제과학진흥원 (2022.06 ~ 2022.07)
 
-전기기사 (2024.12 예정)
+🛠 License & Language
 
-OPIC (IM3, 2024.12)
+🧾 전기기사 자격증 (2024.12 예정)
 
-TOEIC (830점, 2024.02)
+🗣 OPIC IM3, TOEIC 830점
 
-ABEEK 인증 (2024.05)
+🧑‍🎓 ABEEK 인증 (2024.05)
 
-🏆 Award:
+🏆 Awards
 
-경기도 경제과학진흥원 Project Day 최우수상 (2022.07)
+🥇 경기도 경제과학진흥원 Project Day 최우수상 (2022.07)
 
-아르테크네 메이커스 경진대회 장려상 (2019.06)
+🏅 아르테크네 메이커스 경진대회 장려상 (2019.06)
 
-🔧 Skills & Tech Stack
+💻 Tech Stack
 
-💻 Programming Languages
+🔤 Programming
 
 C / C++ / Python / Verilog HDL / MATLAB
 
-📟 Embedded & System
+📟 Embedded System
 
-MCU: STM32 (STM32F103), ATmega128a, FreeRTOS, UART / SPI / I2C / GPIO
+MCU: STM32F103, ATmega128a
 
-SoC: ZYBO Z7 (Zynq-7000), Intel FPGA
+RTOS: FreeRTOS (Task, Semaphore, Queue, Mutex)
 
-Tools: STM32CubeIDE, Vivado, ModelSim, Logic Analyzer, UART Debugging
+Interface: UART, I2C, SPI, GPIO, PWM, Timer, Interrupt
+
+Tools: STM32CubeIDE, Atmel Studio, Vivado, ModelSim, Logic Analyzer
+
+⚙️ Hardware Design
+
+Verilog RTL, Timing Simulation, AXI4 Bus Design
+
+ZYBO Z7, Intel FPGA, Bitstream Deploy
 
 🤖 AI & Computer Vision
 
-YOLOv5, YOLOv8 모델 커스터마이징 & 학습
+YOLOv5/v8 커스터마이징, PyTorch 기반 학습
 
-OpenCV 기반 영상 인식 및 Flask 실시간 스트리밍 시스템 구현
+OpenCV 영상 처리 및 Flask 웹 대시보드 구성
 
-Raspberry Pi 4/5 기반 Edge AI 시스템 구축 경험
+Raspberry Pi + PiCamera2 기반 Edge AI 시스템 구축
 
-📶 IoT / System Integration
+🌐 System Integration
 
-Flask, Picamera2, MQTT, UART-Bluetooth 통신, Sensor Fusion
-
-디바이스 드라이버 개발: BMP180, LCD1602, 센서 인터페이스 직접 구현
+Flask 서버, MQTT, Bluetooth (UART), I2C LCD 제어, 센서 드라이버 직접 구현
 
 🚀 Highlight Projects
 
-📂 Advanced FCC Module Accelerator (Verilog / ZYBO Z7)
+📌 Advanced FCC Module (Verilog / ZYBO Z7)
 
-CNN의 Fully Connected Layer를 RTL 수준으로 구현
+CNN Fully Connected Layer RTL 설계 및 AXI4 인터페이스 구현
 
-AXI4 인터페이스 설계 및 FPGA 실환경 테스트 (속도 45배 향상)
+FPGA에서 45배 연산 속도 향상, Testbench 기반 시뮬레이션 완료
 
-GitHub: Advanced_Fcc_module
+🔗 GitHub Repo
 
-📂 무인카페 CCTV 관리 시스템 (Raspberry Pi + YOLOv5)
+📌 무인카페 CCTV 시스템 (Raspberry Pi + YOLOv5)
 
-Flask 웹 대시보드 + 실시간 오염/분실물 탐지 + YOLOv5 커스터마이징
+실시간 객체 탐지(분실물, 오염도) + Flask 대시보드 구현
 
-객체별 분류 및 알림 처리 / 이미지 저장 자동화
+YOLOv5 커스터마이징 및 로컬 서버 스트리밍
 
-GitHub: Management-of-unmanned-cafes
+🔗 GitHub Repo
 
-📂 FSM 기반 AutoCar (ATmega128a)
+📌 FSM 기반 AutoCar (ATmega128a)
 
-초음파 거리 기반 FSM 설계 (정지/회피/후진)
+초음파 3개 기반 FSM 제어, 4개의 Timer 분리 활용
 
-Timer0~3 활용한 모터, 사이렌, 센서 제어
+UART-Bluetooth 수동 전환 및 LCD+FND 출력
 
-GitHub: Autocar_project
+🔗 GitHub Repo
 
-📂 FreeRTOS Elevator System (STM32 + FreeRTOS)
+📌 FreeRTOS Elevator System (STM32 + FreeRTOS)
 
-Task 분리, FSM, Queue & Semaphore, 스텝모터, 도트매트릭스 연동
+4개 Task 및 FSM 기반 동기화, 도트매트릭스 + 포토센서 제어
 
-실시간 동작 기반 구조로 Task 간 동기화, 센서 이벤트 처리
+Queue, Mutex, Interrupt 구성 및 도착 알림/표시 시스템 구현
 
-GitHub: FreeRTOS_Elevator_Project
+🔗 GitHub Repo
 
-📂 BMP180 + LCD1602 Driver (STM32)
+📌 BMP180 + LCD1602 Driver (STM32)
 
-I²C 기반 센서 보정 연산, 4bit GPIO LCD 제어
+I²C 센서 통신 + 4bit 병렬 GPIO LCD 제어 직접 설계
 
-UART 로그 및 Logic Analyzer로 검증
+보정 공식 구현 및 Logic Analyzer 타이밍 검증 완료
 
-GitHub: BMP-LCD_DERIVER_Project
+🔗 GitHub Repo
 
-📜 Full Portfolio
+📚 Portfolio & Links
 
-📎 Notion에 전체 프로젝트 및 결과물 정리:👉 Project_file on Notion
+📎 Notion Portfolio 전체 보기
 
-💡 Let's Collaborate
+🎥 프로젝트 시연 영상 모음 (Google Drive)
 
-하드웨어 가까운 곳에서부터 시작해 AI 시스템으로까지 확장되는 임베디드 시스템 설계, 함께 만들어갑시다.
+🤝 Let’s Connect
 
-If you're looking for someone who can design, debug, and deliver embedded systems — from MCU to FPGA, from bare-metal to RTOS — I'm ready!
+If you're looking for someone who can design, debug, and deliver embedded systems — from MCU to FPGA, from low-level driver to AI-integrated edge — I'm ready to contribute.
