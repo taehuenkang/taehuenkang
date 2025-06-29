@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Notion-Portfolio-black?style=flat&logo=notion"/>
   </a>
 </p>
+
 ---
 
 <h3 align="left">💻 Languages and Tools:</h3>
