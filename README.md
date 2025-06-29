@@ -5,10 +5,16 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-  <a href="mailto:jjwkth1@gmail.com"><img src="https://img.shields.io/badge/Email-jjwkth1@gmail.com-red?style=flat&logo=gmail"/></a>
-  <a href="https://blog.naver.com/jjwkth2" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-jjwkth2-green?style=flat&logo=naver"/></a>
+  <a href="mailto:jjwkth1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jjwkth1@gmail.com-red?style=flat&logo=gmail"/>
+  </a>
+  <a href="https://blog.naver.com/jjwkth2" target="_blank">
+    <img src="https://img.shields.io/badge/Naver_Blog-jjwkth2-green?style=flat&logo=naver"/>
+  </a>
+  <a href="https://confirmed-keeper-589.notion.site/Portfolio-1ec9aa41395680d7b6b8e6892bdb6d03?pvs=74" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-Portfolio-black?style=flat&logo=notion"/>
+  </a>
 </p>
-
 ---
 
 <h3 align="left">💻 Languages and Tools:</h3>
