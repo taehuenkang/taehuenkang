@@ -1,121 +1,45 @@
-👋 Hi there! I'm Taehoon Kang (강태훈)
+<h1 align="left">Hi 👋, I'm Taehoon Kang (강태훈)</h1>
+<h3 align="left">An Embedded Software Developer who connects real-time hardware with intelligent systems</h3>
 
-An Embedded Software Developer passionate about real-time systems, low-level driver development, and hardware-accelerated AI.
+---
 
-🧑‍💻 About Me
+<h3 align="left">📫 Connect with me:</h3>
+<p align="left">
+  <a href="mailto:jjwkth1@gmail.com"><img src="https://img.shields.io/badge/Email-jjwkth1@gmail.com-red?style=flat&logo=gmail"/></a>
+  <a href="https://blog.naver.com/jjwkth2" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-jjwkth2-green?style=flat&logo=naver"/></a>
+</p>
 
-🎂 Birth: 1999.10.26
+---
 
-📧 Email: jjwkth1@gmail.com
+<h3 align="left">💻 Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+  <a href="https://www.vivado.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Xilinx_Logo.svg" alt="vivado" width="40" height="40"/> </a>
+  <a href="https://www.qt.io/product/development-tools" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
+</p>
 
-📗 Blog: jjwkth2님의 네이버 블로그
+---
 
-🎓 Education
+<h3 align="left">📂 Featured Projects:</h3>
+<ul>
+  <li><b>Advanced FCC Module</b> – Verilog + ZYBO Z7 + AXI Interface → <a href="https://github.com/taehuenkang/Advanced_Fcc_module">GitHub</a></li>
+  <li><b>무인카페 CCTV</b> – YOLOv5 + Flask + Raspberry Pi → <a href="https://github.com/SoCafeManager/Management-of-unmanned-cafes">GitHub</a></li>
+  <li><b>AutoCar</b> – FSM + Timer + ATmega128a → <a href="https://github.com/taehuenkang/Autocar_project">GitHub</a></li>
+  <li><b>FreeRTOS Elevator</b> – Task, Queue, StepMotor + STM32 → <a href="https://github.com/taehuenkang/FreeRTOS_Elavator_Project">GitHub</a></li>
+  <li><b>BMP + LCD Driver</b> – I2C 센서 + 4bit LCD → <a href="https://github.com/taehuenkang/BMP-LCD_DERIVER_Project">GitHub</a></li>
+</ul>
 
-🏫 의왕고등학교 졸업 (2019.01)
+---
 
-📘 AI 시스템반도체 SW 개발자 과정 이수 - 대한상공회의소 서울기술교육센터 (2025.02 ~ 2025.09)
+<h3 align="left">📚 Full Portfolio & Demos</h3>
+<ul>
+  <li>📄 <a href="https://www.notion.so/Project_file-1fa9aa41395680b7b1efedbd39c38edc?pvs=21">Notion 프로젝트 문서 보기</a></li>
+  <li>🎥 <a href="https://drive.google.com/drive/folders/1IU5ZVd64AOmUdkVDHStMkRQFR5KGMKuO?usp=sharing">프로젝트 시연 영상 모음</a></li>
+</ul>
 
-🧠 부처협업 P-프로젝트 참여 - 가천대학교 (2023.09 ~ 2023.12)
+---
 
-📊 빅데이터 분석 교육 수료 - 경기도 경제과학진흥원 (2022.06 ~ 2022.07)
-
-🛠 License & Language
-
-🧾 전기기사 자격증 (2024.12 예정)
-
-🗣 OPIC IM3, TOEIC 830점
-
-🧑‍🎓 ABEEK 인증 (2024.05)
-
-🏆 Awards
-
-🥇 경기도 경제과학진흥원 Project Day 최우수상 (2022.07)
-
-🏅 아르테크네 메이커스 경진대회 장려상 (2019.06)
-
-💻 Tech Stack
-
-🔤 Programming
-
-C / C++ / Python / Verilog HDL / MATLAB
-
-📟 Embedded System
-
-MCU: STM32F103, ATmega128a
-
-RTOS: FreeRTOS (Task, Semaphore, Queue, Mutex)
-
-Interface: UART, I2C, SPI, GPIO, PWM, Timer, Interrupt
-
-Tools: STM32CubeIDE, Atmel Studio, Vivado, ModelSim, Logic Analyzer
-
-⚙️ Hardware Design
-
-Verilog RTL, Timing Simulation, AXI4 Bus Design
-
-ZYBO Z7, Intel FPGA, Bitstream Deploy
-
-🤖 AI & Computer Vision
-
-YOLOv5/v8 커스터마이징, PyTorch 기반 학습
-
-OpenCV 영상 처리 및 Flask 웹 대시보드 구성
-
-Raspberry Pi + PiCamera2 기반 Edge AI 시스템 구축
-
-🌐 System Integration
-
-Flask 서버, MQTT, Bluetooth (UART), I2C LCD 제어, 센서 드라이버 직접 구현
-
-🚀 Highlight Projects
-
-📌 Advanced FCC Module (Verilog / ZYBO Z7)
-
-CNN Fully Connected Layer RTL 설계 및 AXI4 인터페이스 구현
-
-FPGA에서 45배 연산 속도 향상, Testbench 기반 시뮬레이션 완료
-
-🔗 GitHub Repo
-
-📌 무인카페 CCTV 시스템 (Raspberry Pi + YOLOv5)
-
-실시간 객체 탐지(분실물, 오염도) + Flask 대시보드 구현
-
-YOLOv5 커스터마이징 및 로컬 서버 스트리밍
-
-🔗 GitHub Repo
-
-📌 FSM 기반 AutoCar (ATmega128a)
-
-초음파 3개 기반 FSM 제어, 4개의 Timer 분리 활용
-
-UART-Bluetooth 수동 전환 및 LCD+FND 출력
-
-🔗 GitHub Repo
-
-📌 FreeRTOS Elevator System (STM32 + FreeRTOS)
-
-4개 Task 및 FSM 기반 동기화, 도트매트릭스 + 포토센서 제어
-
-Queue, Mutex, Interrupt 구성 및 도착 알림/표시 시스템 구현
-
-🔗 GitHub Repo
-
-📌 BMP180 + LCD1602 Driver (STM32)
-
-I²C 센서 통신 + 4bit 병렬 GPIO LCD 제어 직접 설계
-
-보정 공식 구현 및 Logic Analyzer 타이밍 검증 완료
-
-🔗 GitHub Repo
-
-📚 Portfolio & Links
-
-📎 Notion Portfolio 전체 보기
-
-🎥 프로젝트 시연 영상 모음 (Google Drive)
-
-🤝 Let’s Connect
-
-If you're looking for someone who can design, debug, and deliver embedded systems — from MCU to FPGA, from low-level driver to AI-integrated edge — I'm ready to contribute.
+<h3 align="left">🚀 Let's build embedded systems that think, move, and interact in real time.</h3>
