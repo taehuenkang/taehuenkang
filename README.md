@@ -44,7 +44,7 @@
 <h3 align="left">📚 Full Portfolio & Demos</h3>
 <ul>
   <li>📄 <a href="https://www.notion.so/Project_file-1fa9aa41395680b7b1efedbd39c38edc?pvs=21">Notion 프로젝트 문서 보기</a></li>
-  <li>🎥 <a href="https://drive.google.com/drive/folders/1IU5ZVd64AOmUdkVDHStMkRQFR5KGMKuO?usp=sharing">프로젝트 시연 영상 모음</a></li>
+  <li>🎥 <a href="https://drive.google.com/drive/folders/1LrWX_TSxMSJG_DfBJJVKvI8O9Q6NvuMD?usp=sharing">프로젝트 시연 영상 모음</a></li>
 </ul>
 
 ---
