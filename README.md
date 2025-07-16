@@ -24,14 +24,14 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<div>
-  <a href="https://www.vivado.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Xilinx_Logo.svg" alt="vivado" width="40" height="40" />
+<p align="left">
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
+    <img src="https://user-images.githubusercontent.com/98133024/235853514-0dcac8ba-7b80-4cfa-bf3e-1c7e3e95df02.png" alt="vivado" width="40" height="40"/>
   </a>
   <a href="https://www.qt.io/product/development-tools" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Qt_logo_2016.svg" alt="qt" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Qt_logo_2016.svg/512px-Qt_logo_2016.svg.png" alt="qt" width="40" height="40"/>
   </a>
-</div>
+</p>
 ---
 
 <h3 align="left">📂 Featured Projects:</h3>
