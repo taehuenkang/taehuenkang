@@ -15,21 +15,16 @@
 ---
 
 
+## 💬 About Me
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<p align="left">
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
-    <img src="https://user-images.githubusercontent.com/98133024/235853514-0dcac8ba-7b80-4cfa-bf3e-1c7e3e95df02.png" alt="vivado" width="40" height="40"/>
-  </a>
-  <a href="https://www.qt.io/product/development-tools" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Qt_logo_2016.svg/512px-Qt_logo_2016.svg.png" alt="qt" width="40" height="40"/>
-  </a>
-</p>
+> **C 기반의 MCU 제어**를 좋아합니다.
+> **C 언어와 Verilog** 기반의 MCU 및 FPGA 시스템 제어를 즐깁니다.
+> **STM32, AVR, Arduino, Raspberry Pi를 활용한 임베디드 시스템 개발** 경험 다수 있습니다.
+> **STM32, AVR, Arduino, Raspberry Pi부터 Zynq-7000 SoC 기반 FPGA**까지 폭넓은 임베디드 시스템 개발 경험이 있습니다.
+> UART, I2C, GPIO, PWM 등의 저수준 드라이버 직접 구현, RTOS 기반의 태스크 분리, CNN 가속기 하드웨어 설계 등
+> 실전 프로젝트 중심의 개발을 해왔습니다.
+> 가독성과 유지보수성 높은 구조적 코드, 모듈화된 FSM 설계, 그리고 하드웨어와 소프트웨어를 아우르는 통합 시스템 구현을 지향합니다.
+
 ---
 
 <h3 align="left">📂 Featured Projects:</h3>
